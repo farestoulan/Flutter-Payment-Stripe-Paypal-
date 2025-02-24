@@ -54,5 +54,13 @@ UI/UX: Both Stripe and PayPal provide customizable UI components to match your a
 By integrating Stripe or PayPal into your Flutter app, you can provide users with a secure and convenient payment experience.
 
 ## Some Screen shot And Demo
+![1](https://github.com/user-attachments/assets/26625b8c-335c-4212-8b21-4079fa4709af)
 
+# Stripe payment sheet
+![2](https://github.com/user-attachments/assets/46753440-8298-46cc-ad65-f7f4d70ed905)
 
+# when customer saved card data
+![3](https://github.com/user-attachments/assets/39560b6c-b339-4a5b-ac17-b70ffa183c11)
+
+# Thank you screen
+![4](https://github.com/user-attachments/assets/9a2b4c72-1955-47df-bdb4-ecc8dea785b5)
